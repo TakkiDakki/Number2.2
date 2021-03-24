@@ -11,15 +11,15 @@
 0.8999999999999999
 
 В качестве тестовых данных использовались данные приведенные в задании:
-public class Main {
+``` public class Main {
   public static void main(String[] args) {
     double regularBonus = 0.3;
     double specialBonus = 0.6;
     double totalBonus = regularBonus + specialBonus;
     System.out.println(totalBonus);
   }
-}
-
+} 
+```
 #### Тестирование производилось в следующем окружении:
 
 * openjdk version "11.0.10" 2021-01-19
